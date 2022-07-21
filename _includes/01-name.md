@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# My name is Thiyunu Jyawickrama.
+
+## This is my first attempt to make md file.
